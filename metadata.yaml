@@ -1,0 +1,9 @@
+homepage: "https://sanity.ai"
+documentation: "https://github.com/wasim-ullah/gtm-ai-traffic-source#readme"
+versions:
+  - sha: 91b0b0a951c9052ed4e954dc6f60a92bf90dca89
+    changeNotes: |2
+      Initial release. Detects AI assistant and answer engine referral
+      traffic (ChatGPT, Perplexity, Gemini, Claude, Copilot, Grok,
+      DeepSeek, Meta AI, Mistral and more) from referrer hostname and
+      utm_source/ref parameters.
