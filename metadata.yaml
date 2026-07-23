@@ -1,7 +1,7 @@
 homepage: "https://sanity.ai"
 documentation: "https://github.com/wasim-ullah/gtm-ai-traffic-source#readme"
 versions:
-  - sha: 91b0b0a951c9052ed4e954dc6f60a92bf90dca89
+  - sha: 6219fa39ac97fa300c70ae22968c31b41ff504ad
     changeNotes: |2
       Initial release. Detects AI assistant and answer engine referral
       traffic (ChatGPT, Perplexity, Gemini, Claude, Copilot, Grok,
